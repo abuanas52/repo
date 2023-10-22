@@ -1,6 +1,6 @@
 Package: com.cokepokes.appstoreplusplus
 Version: 0.10.1-5
-Architecture: iOS
+Architecture: iphoneos-arm
 Maintainer: abuanas	
 Depends:  firmware (>= 11.0), mobilesubstrate 	
 Conflicts: com.unlimapps.uaupdatetools	

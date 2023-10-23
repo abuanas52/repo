@@ -5,7 +5,7 @@ Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
 Compatibility: iOS 11+
-Filename: deb/com.cokepokes.appstoreplusplus_0.10.1-5_iphoneos-arm.deb
+Filename: debs/com.cokepokes.appstoreplusplus_0.10.1-5_iphoneos-arm.deb
 Size: 4636364
 MD5sum: 1439e142bcdec4582b9ac8bccc112e4a
 SHA1: c252051616bade4de9d2ccc3a1ea7e29882488c8
@@ -23,7 +23,7 @@ Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
-Filename: deb/com.cokepokes.appstoreplusplus_0.9.8-9_iphoneos-arm.deb
+Filename: debs/com.cokepokes.appstoreplusplus_0.9.8-9_iphoneos-arm.deb
 Size: 1346934
 MD5sum: d6b97e07e2166fdd11fcb8c3aafa30df
 SHA1: ecef6b7b272f89af8cbc661efe26d07f5cf63d94
@@ -41,7 +41,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss
 Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
-Filename: deb/filza_4.0.1-3.deb
+Filename: debs/filza_4.0.1-3.deb
 Size: 10215790
 MD5sum: 60322f74b0e669a35c04e3d864241e1e
 SHA1: 5f55e3c714ee9e81bad34bebb279201490014bd6

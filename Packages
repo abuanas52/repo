@@ -28,7 +28,6 @@ MD5sum: 1439e142bcdec4582b9ac8bccc112e4a
 SHA1: c252051616bade4de9d2ccc3a1ea7e29882488c8
 SHA256: 23bb2021da9b3fdaf5d947490f8ebff5c947d71a6966bf70e43c025c4916c8c7
 Section: Tweaks
-Compatibility: iOS 11+
 Priority: optional
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever
 Author: CokePokes

@@ -12,3 +12,18 @@ SHA256: 23bb2021da9b3fdaf5d947490f8ebff5c947d71a6966bf70e43c025c4916c8c7
 Section: Tweaks	Section: Tweaks
 Depiction: https://abuanas52.github.io/repo/
 Name: AppStore++
+
+Package: com.tigisoftware.filza
+Version: 4.0.1-3
+Architecture: iOS
+Maintainer: abuanas	
+Depends:  firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip	
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39	
+Filename: debs/com.cokepokes.appstoreplusplus_0.10.1-5_iphoneos-arm.deb
+Size: 4636364
+MD5sum: 1439e142bcdec4582b9ac8bccc112e4a	
+SHA1: c252051616bade4de9d2ccc3a1ea7e29882488c8	
+SHA256: 23bb2021da9b3fdaf5d947490f8ebff5c947d71a6966bf70e43c025c4916c8c7	
+Section: Tweaks	Section: Tweaks
+Depiction: https://abuanas52.github.io/repo/
+Name: AppStore++

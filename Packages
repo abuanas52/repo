@@ -18,7 +18,7 @@ Name: AppStore++
 
 Package: com.cokepokes.appstoreplusplus
 Version: 0.10.1-5
-Architecture: iphoneos-arm
+Architecture: iOS
 Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools

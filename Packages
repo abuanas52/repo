@@ -43,7 +43,7 @@ Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: com.ioscreatix.silo
 Replaces: com.ioscreatix.silo
 Compatibility: iOS 11+
-Filename: debs/filza_4.0.1-3.deb
+Filename: debs/ccsupport_1.3.11.deb
 Size: 160676
 MD5sum: d81d6bb207a3eaa26107a87f46445c47
 SHA1: 30e372d1ada38af47bead968f1d9e9e30cd83a2d

@@ -1,7 +1,7 @@
 
 Package: com.cokepokes.appstoreplusplus11
 Version: 0.9.8-9
-Architecture: iphoneos-arm
+Architecture: iOS
 Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
@@ -19,7 +19,7 @@ Name: AppStore++
 
 Package: com.tigisoftware.filza
 Version: 4.0.1-3
-Architecture: iphoneos-arm
+Architecture: iOS
 Maintainer: BigBoss
 Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39

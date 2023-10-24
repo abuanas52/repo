@@ -71,3 +71,19 @@ Description: A Terminal emulator for iOS
 Author: opa334
 Depiction: https://abuanas52.github.io/repo/
 Name: MobileTerminal
+
+Package: com.codethemed.snowboarding1354
+Version: 1.0
+Architecture: iOS
+Maintainer: ZodTTD & MacCiti (Archive)
+Depends: winterboard
+Filename: debs/mobileterminal_520-2.ipa
+Size: 1219618
+MD5sum: 09669c0ffdbb26717bcd62b790034104
+SHA1: c0762a611de5e763f1e57bfe7a5f1df2770fe930
+SHA256: 0ee6550b6b248e133f8ab03c7ee8e6200c7d32d76d7660c49dbe3c0a318319dd
+Section: standard
+Description: a sweet snowboarding theme
+Author: snowboarder1
+Depiction: https://abuanas52.github.io/repo/
+Name: MobileTerminal

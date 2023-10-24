@@ -138,3 +138,20 @@ Author: Jake James
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: Bounce It!
 
+Package: mterminal
+Version: 1.4-6
+Architecture: iOS
+Maintainer: Bingner/Elucubratus
+Depends: bash, coreutils, ncurses, system-cmds
+Filename: debs/mterminal_1.4-6_iphoneos-arm
+Size: 108042
+MD5sum: dedfc589450b43d268bfc369d5b2f4c8
+SHA1: c7ede4ad96c384ca5c682c6528e51c60695c5240
+SHA256: 48a4f4f6a3185a1244a4f731329c1911058d114c963674cef65dc66fc18fc527
+Section: Utilities
+Priority: standard
+Description: A MobileTerminal fork
+Author: lordscotland
+Depiction: https://abuanas52.github.io/repo/
+Name: MTerminal
+

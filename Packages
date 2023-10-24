@@ -104,4 +104,20 @@ Section: Tweaks
 Description: Animated table scrolling
 Author: Ryan Nair
 Depiction: https://abuanas52.github.io/repo/
-Name: MobileTerminal
+Name: cask3
+
+Package: com.level3tjg.twitternoedgetoedge
+Version: 0.0.1
+Architecture: iOS
+Maintainer: level3tjg's repo
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.level3tjg.twitternoedgetoedge_0.0.1_iphoneos-arm.deb
+Size: 2508 
+MD5sum: b3985a847ba15aa1f08ffafe1a9ce222
+SHA1: ff30d041c1a89c6a8eee00977c4dcbdcae7df045
+SHA256: 0f7770e729cdf90b3bb649c3c701c65cdf2138c8ef3e9962256cec26f0a094a4
+Section: Tweaks
+Description: Animated table scrolling
+Author: level3tjg
+Depiction: https://abuanas52.github.io/repo/
+Name: TwitterNoEdgeToEdge

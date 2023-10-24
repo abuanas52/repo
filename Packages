@@ -1,17 +1,3 @@
-Package: com.cokepokes.appstoreplusplus11
-Version: 0.9.5
-Architecture: iphoneos-arm
-Maintainer: x7mii	
-Depends:  firmware (>= 11.0), mobilesubstrate 	
-Conflicts: com.unlimapps.uaupdatetools	
-Filename: debs/com.cokepokes.appstoreplusplus_0.9.5_iphoneos-arm.deb	
-Size: 1670732	
-MD5sum: e6e914ec0c7e9938241241a96d5c4821	
-SHA1: 056678da97b18a9d880a332c90dcf12c5c0ef674	
-SHA256: 3742beed0cab8114ac1e7c4d5c81fa30c467edd29df710204f9e3d8923b059e2	
-Section: Tweaks	Section: Tweaks
-Depiction: https://x7mii15.github.io/test	Depiction: https://repo.packix.com/package/com.ioscreatix.littlex/
-Name: appstore++
 
 Package: com.cokepokes.appstoreplusplus11
 Version: 0.9.8-9
@@ -30,3 +16,20 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3
 Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++
+
+Package: com.tigisoftware.filza
+Version: 4.0.1-3
+Architecture: iphoneos-arm
+Maintainer: BigBoss
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
+Filename: deb/filza_4.0.1-3.deb
+Size: 10215790
+MD5sum: e226dfa8243ddc8c1d8b3d5cc76ac8fa
+SHA256: 0e6bb71c1459eec1943650c6d62d01445feb61bded03ea055c3e1765a29118d7
+Section: Utilities
+Priority: optional
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Author: CokePokes
+Depiction: https://abuanas52.github.io/repo/
+Name: Filza File Manager

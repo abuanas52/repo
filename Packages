@@ -87,3 +87,21 @@ Description: a sweet snowboarding theme
 Author: snowboarder1
 Depiction: https://abuanas52.github.io/repo/
 Name: MobileTerminal
+
+Package: com.ryannair05.cask3
+Version: 1.0.2
+Architecture: iOS
+Maintainer: Chariz
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Replaces: com.ryannair05.cask2
+Compatibility: iOS 14+
+Filename: debs/com.ryannair05.cask3_1.0.2_iphoneos-arm.deb
+Size: 321656
+MD5sum: 977113a0628f491783745ac99559e084
+SHA1: 31c7ab3e47d65d9de34f917cf85ea6cb5522ab28
+SHA256: 6864289c1b2445400b80fe8de275e344d7ab0aa0d597ecfe7c5d35268b9834a9
+Section: Tweaks
+Description: Animated table scrolling
+Author: Ryan Nair
+Depiction: https://abuanas52.github.io/repo/
+Name: MobileTerminal

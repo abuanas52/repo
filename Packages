@@ -61,7 +61,7 @@ Maintainer: BigBoss
 Depends: firmware (>= 3.2), dpkg (>= 1.14.25-8), bash, coreutils, ncurses, system-cmds
 Conflicts: mobileterminal
 Compatibility: iOS 3.2+
-Filename: debs/ccsupport_1.3.11.deb
+Filename: debs/mobileterminal_520-2.ipa
 Size: 237756
 MD5sum: 976152ac3cce2f95ae2092d97807fc31
 SHA1: 3cc37047bab030c34b9a4104f1ef655c4c960d6a

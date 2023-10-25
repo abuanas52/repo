@@ -208,3 +208,37 @@ Description: configure appearance of the Dock
 Author: burrit0z
 Depiction: https://abuanas52.github.io/repo/
 Name: Dockify
+
+Package: me.nepeta.axon
+Version:  1.4
+Architecture: iOS
+Maintainer: Merona Repo
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Compatibility: iOS 11+
+Filename: debs/me.nepeta.axon.deb
+Size: 145746 
+MD5sum: 91ddbd4b90858c3da9afba32af6d6d6b
+SHA1: bbe4e05a992395e8c8a93a0f4983f8626ce3253c
+SHA256: 2232de6f2bd9d045252189f911d0f9d4a2b5b48f7d6f735a4ad0a9913a47d856
+Section: Tweaks
+Description: Priority Hub for iOS 11 and 12
+Author: Nepeta & Baw Appie
+Depiction: https://abuanas52.github.io/repo/
+Name: Axon
+
+Package: com.ryannair05.cylinder
+Version:  1.1.1
+Architecture: iOS
+Maintainer: Chariz
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Compatibility: iOS 11+
+Filename: debs/com.ryannair05.cylinder_1.1.1_iphoneos-arm.deb
+Size: 283140 
+MD5sum: e5eb7712bd1fe7cdce9777c9c94b3229
+SHA1: e10f4a6ebb0f660f42ac588a03fbfe96f6b4566c
+SHA256: 9ffa6daf229ab1a3525a3e906d194ac27bed9da92dd14a682c3c9e6bb10ba853
+Section: Tweaks
+Description: Make your icons dance
+Depiction: https://abuanas52.github.io/repo/
+Name: Cylinder Reborn

@@ -191,3 +191,20 @@ Description: Snowboard theming engine
 Author: Spark
 Depiction: https://abuanas52.github.io/repo/
 Name: SnowBoard
+
+Package: com.burritoz.dockify
+Version:  1.2.2
+Architecture: iOS
+Maintainer: BigBoss
+Depends: mobilesubstrate, firmware (>= 8.0), ws.hbang.common (>= 1.13), preferenceloader
+Priority: optional
+Filename: debs/dockify_1.2.2.deb
+Size: 14552
+MD5sum: 82454ab8cbea89e59f8fc95173b35861
+SHA1: e8bb044e9958db052f3026778b569fbecbc4ba42
+SHA256: 8ebba5739c4fbf5f263db2819254c57c06b9bfdec57ce24e7f51432a96a7ec17
+Section: Tweaks
+Description: configure appearance of the Dock
+Author: burrit0z
+Depiction: https://abuanas52.github.io/repo/
+Name: Dockify

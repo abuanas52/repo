@@ -1,1 +1,156 @@
-{"payload":{"allShortcutsEnabled":true,"fileTree":{"":{"items":[{"name":"debs","path":"debs","contentType":"directory"},{"name":".DS_Store","path":".DS_Store","contentType":"file"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"CydiaIcon.png","path":"CydiaIcon.png","contentType":"file"},{"name":"Packages","path":"Packages","contentType":"file"},{"name":"Packages.bz2","path":"Packages.bz2","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"Release","path":"Release","contentType":"file"},{"name":"index.html","path":"index.html","contentType":"file"}],"totalCount":9}},"fileTreeProcessingTime":2.517075,"foldersToFetch":[],"reducedMotionEnabled":"system","repo":{"id":708212625,"defaultBranch":"main","name":"repo","ownerLogin":"abuanas52","currentUserCanPush":true,"isFork":false,"isEmpty":false,"createdAt":"2023-10-22T00:31:11.000+03:00","ownerAvatar":"https://avatars.githubusercontent.com/u/82246519?v=4","public":true,"private":false,"isOrgOwned":false},"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1698180853.0","canEdit":true,"refType":"branch","currentOid":"c5f409c4b5c8bcece4792e52886f14f1ba222dac"},"path":"Packages","currentUser":{"id":82246519,"login":"abuanas52","userEmail":"badr.bbm@hotmail.com"},"blob":{"rawLines":["","Package: com.cokepokes.appstoreplusplus","Version: 0.10.1-5","Architecture: iOS","Maintainer: CokePokes","Depends: firmware (>= 11.0), mobilesubstrate","Conflicts: com.unlimapps.uaupdatetools","Filename: com.cokepokes.appstoreplusplus_0.10.1-5_iphoneos-arm.deb","Size: 1346934","MD5sum: 1439e142bcdec4582b9ac8bccc112e4a","SHA1: c252051616bade4de9d2ccc3a1ea7e29882488c8","SHA256: 23bb2021da9b3fdaf5d947490f8ebff5c947d71a6966bf70e43c025c4916c8c7","Section: Tweaks","Priority: optional","Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever","Author: CokePokes","Depiction: https://cokepokes.github.io/depiction/appstoreplus.html","Name: AppStore++","","Package: com.tigisoftware.filza","Version: 4.0.1-3","Architecture: iOS","Maintainer: BigBoss","Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip","Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39","Filename: debs/filza_4.0.1-3.deb","Size: 10215790","MD5sum: e226dfa8243ddc8c1d8b3d5cc76ac8fa","SHA1: 5f55e3c714ee9e81bad34bebb279201490014bd6","SHA256: 0e6bb71c1459eec1943650c6d62d01445feb61bded03ea055c3e1765a29118d7","Section: Utilities","Priority: optional","Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+","Author: CokePokes","Depiction: https://abuanas52.github.io/repo/","Name: Filza File Manager","","Package: com.opa334.ccsupport","Version: 1.3.11","Architecture: iOS","Maintainer: BigBoss","Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)","Conflicts: com.ioscreatix.silo","Replaces: com.ioscreatix.silo","Compatibility: iOS 11+","Filename: debs/ccsupport_1.3.11.deb","Size: 160676","MD5sum: d81d6bb207a3eaa26107a87f46445c47","SHA1: 30e372d1ada38af47bead968f1d9e9e30cd83a2d","SHA256: 7a3f7354e4e080f3cbe26c5996613f1116af4503787bc9e59ecdef66e136a1ab","Section: Tweaks","Description: Support tweak for CC modules!","Author: opa334","Depiction: https://abuanas52.github.io/repo/","Name: CCSupport","","Package: mobileterminal-applesdk","Version: 1520-2","Architecture: iOS","Maintainer: BigBoss","Depends: firmware (>= 3.2), dpkg (>= 1.14.25-8), bash, coreutils, ncurses, system-cmds","Conflicts: mobileterminal","Compatibility: iOS 3.2+","Filename: debs/mobileterminal_520-2.ipa","Size: 237756","MD5sum: 976152ac3cce2f95ae2092d97807fc31","SHA1: 3cc37047bab030c34b9a4104f1ef655c4c960d6a","SHA256: 6f02bb0e3f2833140725f3d6b848e9b0a1e786855dc451778133149ac2ebc986","Section: Terminal Support","Description: A Terminal emulator for iOS","Author: opa334","Depiction: https://abuanas52.github.io/repo/","Name: MobileTerminal","","Package: com.codethemed.snowboarding1354","Version: 1.0","Architecture: iOS","Maintainer: ZodTTD & MacCiti (Archive)","Depends: winterboard","Filename: debs/com.codethemed.snowboarding1354_1.0_iphoneos-arm.deb","Size: 1219618","MD5sum: 09669c0ffdbb26717bcd62b790034104","SHA1: c0762a611de5e763f1e57bfe7a5f1df2770fe930","SHA256: 0ee6550b6b248e133f8ab03c7ee8e6200c7d32d76d7660c49dbe3c0a318319dd","Section: standard","Description: a sweet snowboarding theme","Author: snowboarder1","Depiction: https://abuanas52.github.io/repo/","Name: MobileTerminal","","Package: com.ryannair05.cask3","Version: 1.0.2","Architecture: iOS","Maintainer: Chariz","Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)","Replaces: com.ryannair05.cask2","Compatibility: iOS 14+","Filename: debs/com.ryannair05.cask3_1.0.2_iphoneos-arm.deb","Size: 321656","MD5sum: 977113a0628f491783745ac99559e084","SHA1: 31c7ab3e47d65d9de34f917cf85ea6cb5522ab28","SHA256: 6864289c1b2445400b80fe8de275e344d7ab0aa0d597ecfe7c5d35268b9834a9","Section: Tweaks","Description: Animated table scrolling","Author: Ryan Nair","Depiction: https://abuanas52.github.io/repo/","Name: cask3","","Package: com.level3tjg.twitternoedgetoedge","Version: 0.0.1","Architecture: iOS","Maintainer: level3tjg's repo","Depends: mobilesubstrate (>= 0.9.5000)","Filename: debs/com.level3tjg.twitternoedgetoedge_0.0.1_iphoneos-arm.deb","Size: 2508 ","MD5sum: b3985a847ba15aa1f08ffafe1a9ce222","SHA1: ff30d041c1a89c6a8eee00977c4dcbdcae7df045","SHA256: 0f7770e729cdf90b3bb649c3c701c65cdf2138c8ef3e9962256cec26f0a094a4","Section: Tweaks","Description: Animated table scrolling","Author: level3tjg","Depiction: https://abuanas52.github.io/repo/","Name: TwitterNoEdgeToEdge","","Package: com.jakeashacks.bounceit","Version: 1.0.4","Architecture: iOS","Maintainer: BigBoss","Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)","Compatibility: iOS 11","Filename: debs/bounceit_1.0.4.deb","Size: 4760 ","MD5sum: c560cd8ddfa4b1d2f1322ee8f2647cfd","SHA1: 09f4e7722c431a5e88e1deda7f51e27f136caca8","SHA256: 69765ea718ceaa0aeff1fdcb93a96863a9bfeb5411a00b0988d5083513458ef9","Section: Tweaks","Author: Jake James","Depiction: https://cokepokes.github.io/depiction/appstoreplus.html","Name: Bounce It!","","Package: mterminal","Version: 1.4-6","Architecture: iOS","Maintainer: Bingner/Elucubratus","Depends: bash, coreutils, ncurses, system-cmds","Filename: debs/mterminal_1.4-6_iphoneos-arm","Size: 108042","MD5sum: dedfc589450b43d268bfc369d5b2f4c8","SHA1: c7ede4ad96c384ca5c682c6528e51c60695c5240","SHA256: 48a4f4f6a3185a1244a4f731329c1911058d114c963674cef65dc66fc18fc527","Section: Utilities","Priority: standard","Description: A MobileTerminal fork","Author: lordscotland","Depiction: https://abuanas52.github.io/repo/","Name: MTerminal"],"stylingDirectives":[[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]],"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":null,"configFilePath":null,"networkDependabotPath":"/abuanas52/repo/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false,"repoAlertsPath":"/abuanas52/repo/security/dependabot","repoSecurityAndAnalysisPath":"/abuanas52/repo/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":true},"displayName":"Packages","displayUrl":"https://github.com/abuanas52/repo/blob/main/Packages?raw=true","headerInfo":{"blobSize":"4.93 KB","deleteInfo":{"deleteTooltip":"Delete this file"},"editInfo":{"editTooltip":"Edit this file"},"ghDesktopPath":"x-github-client://openRepo/https://github.com/abuanas52/repo?branch=main&filepath=Packages","gitLfsPath":null,"onBranch":true,"shortPath":"39e3898","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fabuanas52%2Frepo%2Fblob%2Fmain%2FPackages","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"157","truncatedSloc":"147"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"loggedIn":true,"newDiscussionPath":"/abuanas52/repo/discussions/new","newIssuePath":"/abuanas52/repo/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/abuanas52/repo/blob/main/Packages","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/abuanas52/repo/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"rawBlobUrl":"https://github.com/abuanas52/repo/raw/main/Packages","renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"shortPath":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"abuanas52","repoName":"repo","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":null,"actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timedOut":false,"notAnalyzed":true,"symbols":[]}},"copilotInfo":{"documentationUrl":"https://docs.github.com/copilot/overview-of-github-copilot/about-github-copilot-for-individuals","notices":{"codeViewPopover":{"dismissed":false,"dismissPath":"/settings/dismiss-notice/code_view_copilot_popover"}},"userAccess":{"accessAllowed":false,"hasSubscriptionEnded":false,"orgHasCFBAccess":false,"userHasCFIAccess":false,"userHasOrgs":false,"userIsOrgAdmin":false,"userIsOrgMember":false,"business":null,"featureRequestInfo":null}},"copilotAccessAllowed":false,"csrf_tokens":{"/abuanas52/repo/branches":{"post":"jZgLdRPrc5yeUMZlxU0l9TuAHEHYsjn5jPCS2PBLjGWQKSsKgh2vVYXaj-ahj2LwSqeOpG-dxwnOeUlme6hC3A"},"/repos/preferences":{"post":"Fr9eZcwUH-vGagHyG-hKaPZve-75TfTA2dTNHxdIHjN-9SwR8Z-zFsfsYMbri937fvBLxEPYaM6sdVN1sRHDlg"}}},"title":"repo/Packages at main · abuanas52/repo"}
+Package: com.cokepokes.appstoreplusplus
+Version: 0.10.1-5
+Architecture: iOS
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: com.cokepokes.appstoreplusplus_0.10.1-5_iphoneos-arm.deb
+Size: 1346934
+MD5sum: 1439e142bcdec4582b9ac8bccc112e4a
+SHA1: c252051616bade4de9d2ccc3a1ea7e29882488c8
+SHA256: 23bb2021da9b3fdaf5d947490f8ebff5c947d71a6966bf70e43c025c4916c8c7
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: AppStore++
+
+Package: com.tigisoftware.filza
+Version: 4.0.1-3
+Architecture: iOS
+Maintainer: BigBoss
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
+Filename: debs/filza_4.0.1-3.deb
+Size: 10215790
+MD5sum: e226dfa8243ddc8c1d8b3d5cc76ac8fa
+SHA1: 5f55e3c714ee9e81bad34bebb279201490014bd6
+SHA256: 0e6bb71c1459eec1943650c6d62d01445feb61bded03ea055c3e1765a29118d7
+Section: Utilities
+Priority: optional
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Author: CokePokes
+Depiction: https://abuanas52.github.io/repo/
+Name: Filza File Manager
+
+Package: com.opa334.ccsupport
+Version: 1.3.11
+Architecture: iOS
+Maintainer: BigBoss
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Compatibility: iOS 11+
+Filename: debs/ccsupport_1.3.11.deb
+Size: 160676
+MD5sum: d81d6bb207a3eaa26107a87f46445c47
+SHA1: 30e372d1ada38af47bead968f1d9e9e30cd83a2d
+SHA256: 7a3f7354e4e080f3cbe26c5996613f1116af4503787bc9e59ecdef66e136a1ab
+Section: Tweaks
+Description: Support tweak for CC modules!
+Author: opa334
+Depiction: https://abuanas52.github.io/repo/
+Name: CCSupport
+
+Package: mobileterminal-applesdk
+Version: 1520-2
+Architecture: iOS
+Maintainer: BigBoss
+Depends: firmware (>= 3.2), dpkg (>= 1.14.25-8), bash, coreutils, ncurses, system-cmds
+Conflicts: mobileterminal
+Compatibility: iOS 3.2+
+Filename: debs/mobileterminal_520-2.ipa
+Size: 237756
+MD5sum: 976152ac3cce2f95ae2092d97807fc31
+SHA1: 3cc37047bab030c34b9a4104f1ef655c4c960d6a
+SHA256: 6f02bb0e3f2833140725f3d6b848e9b0a1e786855dc451778133149ac2ebc986
+Section: Terminal Support
+Description: A Terminal emulator for iOS
+Author: opa334
+Depiction: https://abuanas52.github.io/repo/
+Name: MobileTerminal
+
+Package: com.codethemed.snowboarding1354
+Version: 1.0
+Architecture: iOS
+Maintainer: ZodTTD & MacCiti (Archive)
+Depends: winterboard
+Filename: debs/com.codethemed.snowboarding1354_1.0_iphoneos-arm.deb
+Size: 1219618
+MD5sum: 09669c0ffdbb26717bcd62b790034104
+SHA1: c0762a611de5e763f1e57bfe7a5f1df2770fe930
+SHA256: 0ee6550b6b248e133f8ab03c7ee8e6200c7d32d76d7660c49dbe3c0a318319dd
+Section: standard
+Description: a sweet snowboarding theme
+Author: snowboarder1
+Depiction: https://abuanas52.github.io/repo/
+Name: MobileTerminal
+
+Package: com.ryannair05.cask3
+Version: 1.0.2
+Architecture: iOS
+Maintainer: Chariz
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Replaces: com.ryannair05.cask2
+Compatibility: iOS 14+
+Filename: debs/com.ryannair05.cask3_1.0.2_iphoneos-arm.deb
+Size: 321656
+MD5sum: 977113a0628f491783745ac99559e084
+SHA1: 31c7ab3e47d65d9de34f917cf85ea6cb5522ab28
+SHA256: 6864289c1b2445400b80fe8de275e344d7ab0aa0d597ecfe7c5d35268b9834a9
+Section: Tweaks
+Description: Animated table scrolling
+Author: Ryan Nair
+Depiction: https://abuanas52.github.io/repo/
+Name: cask3
+
+Package: com.level3tjg.twitternoedgetoedge
+Version: 0.0.1
+Architecture: iOS
+Maintainer: level3tjg's repo
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.level3tjg.twitternoedgetoedge_0.0.1_iphoneos-arm.deb
+Size: 2508 
+MD5sum: b3985a847ba15aa1f08ffafe1a9ce222
+SHA1: ff30d041c1a89c6a8eee00977c4dcbdcae7df045
+SHA256: 0f7770e729cdf90b3bb649c3c701c65cdf2138c8ef3e9962256cec26f0a094a4
+Section: Tweaks
+Description: Animated table scrolling
+Author: level3tjg
+Depiction: https://abuanas52.github.io/repo/
+Name: TwitterNoEdgeToEdge
+
+Package: com.jakeashacks.bounceit
+Version: 1.0.4
+Architecture: iOS
+Maintainer: BigBoss
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Compatibility: iOS 11
+Filename: debs/bounceit_1.0.4.deb
+Size: 4760 
+MD5sum: c560cd8ddfa4b1d2f1322ee8f2647cfd
+SHA1: 09f4e7722c431a5e88e1deda7f51e27f136caca8
+SHA256: 69765ea718ceaa0aeff1fdcb93a96863a9bfeb5411a00b0988d5083513458ef9
+Section: Tweaks
+Author: Jake James
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: Bounce It!
+
+Package: mterminal
+Version: 1.4-6
+Architecture: iOS
+Maintainer: Bingner/Elucubratus
+Depends: bash, coreutils, ncurses, system-cmds
+Filename: debs/mterminal_1.4-6_iphoneos-arm
+Size: 108042
+MD5sum: dedfc589450b43d268bfc369d5b2f4c8
+SHA1: c7ede4ad96c384ca5c682c6528e51c60695c5240
+SHA256: 48a4f4f6a3185a1244a4f731329c1911058d114c963674cef65dc66fc18fc527
+Section: Utilities
+Priority: standard
+Description: A MobileTerminal fork
+Author: lordscotland
+Depiction: https://abuanas52.github.io/repo/
+Name: MTerminal
+

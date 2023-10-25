@@ -1,3 +1,4 @@
+
 Package: com.cokepokes.appstoreplusplus
 Version: 0.10.1-5
 Architecture: iOS
@@ -154,3 +155,21 @@ Author: lordscotland
 Depiction: https://abuanas52.github.io/repo/
 Name: MTerminal
 
+Package: com.exile90.icleanerpro
+Version:  7.10.0
+Architecture: iOS Rootless
+Maintainer: Karen/あけみ's Repo
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Compatibility: iOS Rootless 4+
+Filename: debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
+Size: 1098586
+MD5sum: 6d52edf547d85ea5713e913d6293f3ba
+SHA1: d9fb1af260401829b101a3a3214698919d0dc1f6
+SHA256: eb1137e9ccf0d9c0b985011a42d969b214dccde19977c9398e300da50ae6a083
+Section: Utilities
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi
+Depiction: https://abuanas52.github.io/repo/
+Name: iCleaner Pro

@@ -258,3 +258,19 @@ Section: Tweaks
 Description: Dark mode in Cercube for YouTube
 Depiction: https://abuanas52.github.io/repo/
 Name: CercubeDarkMode
+
+Package: com.ichitaso.youtubepatcher
+Version:  0.3-3
+Architecture: iOS
+Maintainer: ichitaso repository
+Depends: mobilesubstrate
+Filename: debs/com.ichitaso.youtubepatcher_0.3-3_iphoneos-arm64.deb
+Size: 2716 
+MD5sum: 454a4c91cced457e78e215d2bea78b22
+SHA1: 2a5959bbf353e46e205530e2f6c007ce08dd2de7
+SHA256: db697c1e16be958fe3c721cdc31a64a9018bdf3253a1b459a7f7f28286eb01b1
+Section: Tweaks
+Description: No inline Ads/Background Play back
+Author: ichitaso
+Depiction: https://abuanas52.github.io/repo/
+Name: YouTubePatcher

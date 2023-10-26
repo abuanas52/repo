@@ -242,3 +242,19 @@ Section: Tweaks
 Description: Make your icons dance
 Depiction: https://abuanas52.github.io/repo/
 Name: Cylinder Reborn
+
+Package: com.captinc.cercubedarkmode
+Version:  1.1.1
+Architecture: iOS
+Maintainer: Capt Inc
+Depends: firmware (>=11.0), mobilesubstrate, me.alfhaily.cercube
+Compatibility: iOS 11+
+Filename: debs/com.captinc.cercubedarkmode_1.1.1.deb
+Size: 9196 
+MD5sum: 078272e60468a28dec35bd76df6ea919
+SHA1: 350ac5d50dcba532fa57b59b05baf78e377d6fbe
+SHA256: dac406d65b38c6b63376d6cacaae1a3e8c1e39a5b5cc227cc963bfee03f9a636
+Section: Tweaks
+Description: Dark mode in Cercube for YouTube
+Depiction: https://abuanas52.github.io/repo/
+Name: CercubeDarkMode

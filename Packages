@@ -54,24 +54,6 @@ Author: opa334
 Depiction: https://abuanas52.github.io/repo/
 Name: CCSupport
 
-Package: mobileterminal-applesdk
-Version: 1520-2
-Architecture: iOS
-Maintainer: BigBoss
-Depends: firmware (>= 3.2), dpkg (>= 1.14.25-8), bash, coreutils, ncurses, system-cmds
-Conflicts: mobileterminal
-Compatibility: iOS 3.2+
-Filename: debs/mobileterminal_520-2.ipa
-Size: 237756
-MD5sum: 976152ac3cce2f95ae2092d97807fc31
-SHA1: 3cc37047bab030c34b9a4104f1ef655c4c960d6a
-SHA256: 6f02bb0e3f2833140725f3d6b848e9b0a1e786855dc451778133149ac2ebc986
-Section: Terminal Support
-Description: A Terminal emulator for iOS
-Author: opa334
-Depiction: https://abuanas52.github.io/repo/
-Name: MobileTerminal
-
 Package: com.codethemed.snowboarding1354
 Version: 1.0
 Architecture: iOS
@@ -274,3 +256,20 @@ Description: No inline Ads/Background Play back
 Author: ichitaso
 Depiction: https://abuanas52.github.io/repo/
 Name: YouTubePatcher
+
+Package: com.chr1s.gears
+Version:  1.1.3
+Architecture: iOS
+Maintainer: Packix
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.15.1)
+Conflicts: com.burritoz.ash
+Filename: debs/com.chr1s.gears_1.1.3.deb
+Size: 1246792 
+MD5sum: b696fa5087b135c1f9d9a9ac769d05fe
+SHA1: f438fc05031b7fba25c90000c6a015d57cd296a2
+SHA256: 4222b09cf565d589b00a7f0c218c6d952397f01225404dd07ea624dfe6250214
+Section: Tweaks
+Description: Animate Settings icon!
+Author: Chr1s
+Depiction: https://abuanas52.github.io/repo/
+Name: Gears

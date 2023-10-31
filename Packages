@@ -54,24 +54,6 @@ Author: opa334
 Depiction: https://abuanas52.github.io/repo/
 Name: CCSupport
 
-Package: mobileterminal-applesdk
-Version: 1520-2
-Architecture: iOS
-Maintainer: BigBoss
-Depends: firmware (>= 3.2), dpkg (>= 1.14.25-8), bash, coreutils, ncurses, system-cmds
-Conflicts: mobileterminal
-Compatibility: iOS 3.2+
-Filename: debs/mobileterminal_520-2.ipa
-Size: 237756
-MD5sum: 976152ac3cce2f95ae2092d97807fc31
-SHA1: 3cc37047bab030c34b9a4104f1ef655c4c960d6a
-SHA256: 6f02bb0e3f2833140725f3d6b848e9b0a1e786855dc451778133149ac2ebc986
-Section: Terminal Support
-Description: A Terminal emulator for iOS
-Author: opa334
-Depiction: https://abuanas52.github.io/repo/
-Name: MobileTerminal
-
 Package: com.codethemed.snowboarding1354
 Version: 1.0
 Architecture: iOS
@@ -308,3 +290,19 @@ Description: Quick Controls right at your disposal!
 Author: ApexTweaks
 Depiction: https://abuanas52.github.io/repo/
 Name: Veza
+
+Package: com.kingpuffdaddi.notifbounce
+Version:  0.0.5
+Architecture: iOS
+Maintainer: KingPuffdaddi's Repo
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: debs/com.kingpuffdaddi.notifbounce_0.0.5_iphoneos-arm.deb
+Size: 42788
+MD5sum: e157060ed7f5fc9443a64c8c1a21aa8a
+SHA1: 77f2dae6a07e160a4d867836ea06b7626c01d925
+SHA256: a21537e9e478416438f1f96ab40cb54109ed9bcc2b6771c4e8f3a299f358c9d3
+Section: Tweaks
+Description: Makes your icons with notification bounce
+Author: KingPuffdaddi
+Depiction: https://abuanas52.github.io/repo/
+Name: NotifBounce

@@ -306,3 +306,19 @@ Description: Makes your icons with notification bounce
 Author: KingPuffdaddi
 Depiction: https://abuanas52.github.io/repo/
 Name: NotifBounce
+
+Package: com.jakeashacks.bounceit
+Version:  1.0.4
+Architecture: iOS
+Maintainer: BigBoss
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/bounceit_1.0.4.deb
+Size: 4760
+MD5sum: c560cd8ddfa4b1d2f1322ee8f2647cfd
+SHA1: 09f4e7722c431a5e88e1deda7f51e27f136caca8
+SHA256: 69765ea718ceaa0aeff1fdcb93a96863a9bfeb5411a00b0988d5083513458ef9
+Section: Tweaks
+Description: Add bouncing effect animations on iOS 11/12
+Author: Jake James
+Depiction: https://abuanas52.github.io/repo/
+Name: Bounce It!

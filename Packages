@@ -54,6 +54,24 @@ Author: opa334
 Depiction: https://abuanas52.github.io/repo/
 Name: CCSupport
 
+Package: mobileterminal-applesdk
+Version: 1520-2
+Architecture: iOS
+Maintainer: BigBoss
+Depends: firmware (>= 3.2), dpkg (>= 1.14.25-8), bash, coreutils, ncurses, system-cmds
+Conflicts: mobileterminal
+Compatibility: iOS 3.2+
+Filename: debs/mobileterminal_520-2.ipa
+Size: 237756
+MD5sum: 976152ac3cce2f95ae2092d97807fc31
+SHA1: 3cc37047bab030c34b9a4104f1ef655c4c960d6a
+SHA256: 6f02bb0e3f2833140725f3d6b848e9b0a1e786855dc451778133149ac2ebc986
+Section: Terminal Support
+Description: A Terminal emulator for iOS
+Author: opa334
+Depiction: https://abuanas52.github.io/repo/
+Name: MobileTerminal
+
 Package: com.codethemed.snowboarding1354
 Version: 1.0
 Architecture: iOS
@@ -273,3 +291,20 @@ Description: Animate Settings icon!
 Author: Chr1s
 Depiction: https://abuanas52.github.io/repo/
 Name: Gears
+
+Package: com.apextweaks.veza
+Version:  1.2.0
+Architecture: iOS
+Maintainer: Chariz
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Compatibility: iOS 11+
+Filename: debs/com.apextweaks.veza_1.2.0_iphoneos-arm.deb
+Size: 3211268
+MD5sum: c4a0f6a7e1d80e5c7e3c4e635c86f4cd
+SHA1: 0e7a945fa8e0c1a0b69e89155413277912616303
+SHA256: c9cea24b31cdb8c71a8f67e76d64bb67e0ecef3735856cfab55b1dcf715d1edc
+Section: Tweaks
+Description: Quick Controls right at your disposal!
+Author: ApexTweaks
+Depiction: https://abuanas52.github.io/repo/
+Name: Veza

@@ -322,3 +322,21 @@ Description: Add bouncing effect animations on iOS 11/12
 Author: Jake James
 Depiction: https://abuanas52.github.io/repo/
 Name: Bounce It!
+
+Package: com.spark.snowboard
+Version:  1.5.21-Beta3
+Architecture: iOS
+Maintainer: SparkDev
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: debs/1.5.21-Beta3.deb
+Size: 1419906
+MD5sum: 81540321e8e9d59eca277cedeaf74321
+SHA1: ef1fa22dcbd90afe19d962997291b7cb389f87a6
+SHA256: 4285febe09bf2c9f6b806ea66be930bc440c7fda746b31bc5ad733c067073509
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Spark
+Depiction: https://abuanas52.github.io/repo/
+Name: SnowBoard

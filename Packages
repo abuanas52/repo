@@ -340,3 +340,19 @@ Description: Snowboard theming engine
 Author: Spark
 Depiction: https://abuanas52.github.io/repo/
 Name: SnowBoard
+
+Package: com.smokin1337.blurification
+Version:  1.0.2
+Architecture: iOS
+Maintainer: iDeviceHacked
+Depends: mobilesubstrate
+Filename: debs/com.smokin1337.blurification_1.0.2_iphoneos-arm.deb
+Size: 377654
+MD5sum: 56239a25c212e28bad50f79301a48f17
+SHA1: d7fe3d3f0d29ccea6484bb329e95e899934ff861
+SHA256: 1a6149f038d694c45ec3f86ea7f418047a09c7ddc729555a3ac56c714d1ddcf2
+Section: Tweaks
+Description: Protect your notifications!
+Author: smokin1337
+Depiction: https://abuanas52.github.io/repo/
+Name: Blurification

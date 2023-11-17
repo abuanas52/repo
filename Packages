@@ -1,20 +1,18 @@
 
-Package: com.cokepokes.appstoreplusplus
-Version: 0.10.1-5
+Package: com.carloztech.appstoreplusplus
+Version: 0.9.5
 Architecture: iOS
-Maintainer: CokePokes
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Filename: com.cokepokes.appstoreplusplus_0.10.1-5_iphoneos-arm.deb
-Size: 1346934
-MD5sum: 1439e142bcdec4582b9ac8bccc112e4a
-SHA1: c252051616bade4de9d2ccc3a1ea7e29882488c8
-SHA256: 23bb2021da9b3fdaf5d947490f8ebff5c947d71a6966bf70e43c025c4916c8c7
+Maintainer: Carloz Tech Official Repo
+Filename: AppStore++.deb
+Size: 1638498
+MD5sum: 69cc0e7ec58653923dc770689d3bc0a9
+SHA1: 14c99b27e8f0f394e82710c399bb3cba57c4a42a
+SHA256: 67754f54fe92a46d5a592c0468292330317e74274fe0f4547d2f967c1f53c349
 Section: Tweaks
 Priority: optional
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever
+Description: Allows you to downgrade/upgrade apps in the AppStore
 Author: CokePokes
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Depiction: https://abuanas52.github.io/repo/
 Name: AppStore++
 
 Package: com.tigisoftware.filza

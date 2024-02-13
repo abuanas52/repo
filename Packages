@@ -371,3 +371,18 @@ Description: No more description.
 Author: abuanas
 Depiction: https://abuanas52.github.io/repo/
 Name: DeadTweak
+
+Package: com.carloztech.appstorexi
+Version:  1.4.7
+Architecture: iOS
+Maintainer: abuanas
+Filename: debs/ppStoreXI.deb
+Size: 1638588
+MD5sum: deba551649151b82138e72eec9317473
+SHA1: 43000bdd1764803de0d7d42f5356068285bb6894
+SHA256: ac36e4686f8750498d6a03cf4122cc8ace9dbbe145efafb5c3d78352ba44974d
+Section: Tweaks
+Description: AppStore XI was created to make the downgrades and upgrades of the applications they want. When you are in the AppStore on the application page you want to downgrade / upgrade simply press the (Get) button fo 3 seconds.
+Author: AppWeleux Team
+Depiction: https://abuanas52.github.io/repo/
+Name: AppStoreXI

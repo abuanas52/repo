@@ -435,3 +435,19 @@ Description: A proper homescreen layout editor for iOS 13-16
 Author: ren7995
 Depiction: https://abuanas52.github.io/repo/
 Name: Atria
+
+Package:  com.mtac.ampere
+Version:  1.4
+Architecture: iOS Rootless
+Maintainer: Havoc
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Compatibility: iOS Rootless 14+
+Filename: debs/com.mtac.ampere_1.4_iphoneos-arm.deb
+Size: 101102
+MD5sum: ef2d38afc6b8be000639201acb83717b
+SHA256: 7cd7b24e72e9a652f0d538bdf000f4578de611376ebb20837a6e138dc85d1e21
+Section: Tweaks
+Description: iOS 16 Style Battery Indicator
+Author: mtac
+Depiction: https://abuanas52.github.io/repo/
+Name: Ampere

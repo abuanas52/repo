@@ -400,3 +400,21 @@ Description: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcdn.cha
 Author: Ryan Nair
 Depiction: https://abuanas52.github.io/repo/
 Name: Cylinder Reborn
+
+Package: me.nepeta.axon
+Version:  1.4
+Architecture: iOS
+Maintainer: Merona Repo
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Compatibility: iOS 11+
+Filename: debs/me.nepeta.axon
+Size: 14575
+MD5sum: 91ddbd4b90858c3da9afba32af6d6d6b
+SHA1: bbe4e05a992395e8c8a93a0f4983f8626ce3253c
+SHA256: 2232de6f2bd9d045252189f911d0f9d4a2b5b48f7d6f735a4ad0a9913a47d856
+Section: Tweaks
+Description: Priority Hub for iOS 11 and 12
+Author: Nepeta & Baw Appie
+Depiction: https://abuanas52.github.io/repo/
+Name: Axon

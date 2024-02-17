@@ -451,3 +451,19 @@ Description: iOS 16 Style Battery Indicator
 Author: mtac
 Depiction: https://abuanas52.github.io/repo/
 Name: Ampere
+
+Package:  net.p0358.disintegratelock
+Version:  1.0.1
+Architecture: iOS Rootless
+Maintainer: p0358
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.14)
+Filename: debs/net.p0358.disintegratelock_1.0.1_iphoneos-arm.deb
+Size: 101102
+MD5sum: 385e03eaaf1542d6241dc86400b063c7
+SHA1: 57205f5be47d2ba347f0e818f7799123f635ed1e
+SHA256: e953756fa0c18e9cd3eb60690c5221cd949ef5ba186865132c64ea9db2b41c07
+Section: Tweaks
+Description: Awesome disintegrate turning off animation for locking!
+Author: p0358
+Depiction: https://abuanas52.github.io/repo/
+Name: DisintegrateLock

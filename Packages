@@ -467,3 +467,20 @@ Description: Awesome disintegrate turning off animation for locking!
 Author: p0358
 Depiction: https://abuanas52.github.io/repo/
 Name: DisintegrateLock
+
+Package:  com.ryannair05.snoverlay
+Version:  1.0.1
+Architecture: iOS 
+Maintainer: Havoc
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Replaces: com.leftyfl1p.snoverlay
+Compatibility: iOS 7+
+Filename: debs/net.p0358.disintegratelock_1.0.1_iphoneos-arm.deb
+Size: 105242
+MD5sum: a596998470565a2e8746404136de1d80
+SHA256: a0f08602a6556f55b30c66679d6bccf7774ec3adec8c09bc7e5fe996fb6ba8e4
+Section: Tweaks
+Description: Falling Snowflakes
+Author: ryannair05
+Depiction: https://abuanas52.github.io/repo/
+Name: Snoverlay 2

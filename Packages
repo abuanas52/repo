@@ -484,3 +484,20 @@ Description: Falling Snowflakes
 Author: ryannair05
 Depiction: https://abuanas52.github.io/repo/
 Name: Snoverlay 2
+
+Package:  net.p0358.pridebars
+Version:  1.1.0
+Architecture: iOS Rootless
+Maintainer: p0358
+Depends: mobilesubstrate
+Conflicts: com.blakeboxberger.pridebars
+Filename: debs/net.p0358.pridebars_1.1.0_iphoneos-arm64.deb
+Size: 33598
+MD5sum: 808278ff56b3452c2d973b731222558a
+SHA1: f5b234d3ea23790b9ee958e31cfd74e0f23e1a69
+SHA256: 8d609f167689f79d512116f98be2bcb7d2ac87d5458e6aba8e31600d59ac732a
+Section: Tweaks
+Description: Colorful signal bars. Now with Wi-Fi support! The default colors are the first four rainbow colors, which coincidentally line up from red to green, as in from the weakest signal to the strongest.
+Author: p0358
+Depiction: https://abuanas52.github.io/repo/
+Name: PrideBars

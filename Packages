@@ -517,3 +517,20 @@ Description: Lock device by swiping in from top left corner.
 Author: DGh0st
 Depiction: https://abuanas52.github.io/repo/
 Name: CornerLock
+
+Package:  com.yakir.carriermodern
+Version:  0.0.1-7+debug
+Architecture: iOS 
+Maintainer: Packix
+Depends: mobilesubstrate
+Compatibility: iOS 7
+Filename: debs/com.yakir.carriermodern_0.0.1-7+debug.deb
+Size: 40630
+MD5sum: 5ef73cf359c11fa9fdc15551d5784eb3
+SHA1: 187ef3f2c498271aaa52234cd0a354e4d76cfd20
+SHA256: a06154a510156ee832b0a2bd922fe4b9073be2c552863cd16a1b3b0fca7f0f99
+Section: Tweaks
+Description: Change carrier name in statusbar!
+Author: DevelopApple
+Depiction: https://abuanas52.github.io/repo/
+Name: CarrierModern

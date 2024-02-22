@@ -154,24 +154,6 @@ Author: Ivano Bilenchi
 Depiction: https://abuanas52.github.io/repo/
 Name: iCleaner Pro
 
-Package:  com.spark.snowboard
-Version:  1.5.26-Beta4-rootless
-Architecture: iOS Rootless 
-Maintainer: SparkDev
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: debs/1.5.26-Beta4-rootless.deb
-Size: 1120268
-MD5sum: 9109ec3d0b2bca55154f15610c8b61ba
-SHA1: 1548df152c15da2d898f19e618fb6af4bdee5d85
-SHA256: 2857efc003bf3c2def3119ea1b45f25b86eb57c8bf6f3b8d12c822e976608a51
-Section: Tweaks
-Description: Snowboard theming engine
-Author: Spark
-Depiction: https://abuanas52.github.io/repo/
-Name: SnowBoard
-
 Package: com.burritoz.dockify
 Version:  1.2.2
 Architecture: iOS

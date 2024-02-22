@@ -303,24 +303,6 @@ Author: Jake James
 Depiction: https://abuanas52.github.io/repo/
 Name: Bounce It!
 
-Package: com.spark.snowboard
-Version:  1.5.21-Beta3
-Architecture: iOS
-Maintainer: SparkDev
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: debs/1.5.21-Beta3.deb
-Size: 1419906
-MD5sum: 81540321e8e9d59eca277cedeaf74321
-SHA1: ef1fa22dcbd90afe19d962997291b7cb389f87a6
-SHA256: 4285febe09bf2c9f6b806ea66be930bc440c7fda746b31bc5ad733c067073509
-Section: Tweaks
-Description: Snowboard theming engine
-Author: Spark
-Depiction: https://abuanas52.github.io/repo/
-Name: SnowBoard
-
 Package: com.smokin1337.blurification
 Version:  1.0.2
 Architecture: iOS
@@ -550,3 +532,21 @@ Description: Round your Control Center modules.
 Author: jailbreak365
 Depiction: https://abuanas52.github.io/repo/
 Name: RoundedModules
+
+Package:  com.spark.snowboard
+Version:  1.5.26-Beta4-rootless
+Architecture: iOS Rootless 
+Maintainer: SparkDev
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: debs/1.5.26-Beta4-rootless.deb
+Size: 1120268
+MD5sum: 9109ec3d0b2bca55154f15610c8b61ba
+SHA1: 1548df152c15da2d898f19e618fb6af4bdee5d85
+SHA256: 2857efc003bf3c2def3119ea1b45f25b86eb57c8bf6f3b8d12c822e976608a51
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Spark
+Depiction: https://abuanas52.github.io/repo/
+Name: SnowBoard

@@ -552,3 +552,19 @@ Description: Support tweak for CC modules!
 Author: opa334
 Depiction: https://abuanas52.github.io/repo/
 Name: CCSupport
+
+Package:  com.jailbreak365.roundedmodules
+Version:  1.0.3
+Architecture: iOS 
+Maintainer: BigBoss
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Compatibility: iOS 11+
+Filename: debs/roundedmodules_1.0.3.deb
+Size: 10930
+MD5sum: 74fb404d7264618c93b06a14d223e803
+SHA256: 2ac10e5397a51757487998f0a02e2008a4b4857edd808f907f220451a9503e2f
+Section: Tweaks
+Description: Round your Control Center modules.
+Author: jailbreak365
+Depiction: https://abuanas52.github.io/repo/
+Name: RoundedModules

@@ -33,25 +33,6 @@ Author: CokePokes
 Depiction: https://abuanas52.github.io/repo/
 Name: Filza File Manager
 
-Package: com.opa334.ccsupport
-Version: 1.3.11
-Architecture: iOS
-Maintainer: BigBoss
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: com.ioscreatix.silo
-Replaces: com.ioscreatix.silo
-Compatibility: iOS 11+
-Filename: debs/ccsupport_1.3.11.deb
-Size: 160676
-MD5sum: d81d6bb207a3eaa26107a87f46445c47
-SHA1: 30e372d1ada38af47bead968f1d9e9e30cd83a2d
-SHA256: 7a3f7354e4e080f3cbe26c5996613f1116af4503787bc9e59ecdef66e136a1ab
-Section: Tweaks
-Description: Support tweak for CC modules!
-Author: opa334
-Depiction: https://abuanas52.github.io/repo/
-Name: CCSupport
-
 Package: com.codethemed.snowboarding1354
 Version: 1.0
 Architecture: iOS
@@ -101,22 +82,6 @@ Description: Animated table scrolling
 Author: level3tjg
 Depiction: https://abuanas52.github.io/repo/
 Name: TwitterNoEdgeToEdge
-
-Package: com.jakeashacks.bounceit
-Version: 1.0.4
-Architecture: iOS
-Maintainer: BigBoss
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
-Compatibility: iOS 11
-Filename: debs/bounceit_1.0.4.deb
-Size: 4760 
-MD5sum: c560cd8ddfa4b1d2f1322ee8f2647cfd
-SHA1: 09f4e7722c431a5e88e1deda7f51e27f136caca8
-SHA256: 69765ea718ceaa0aeff1fdcb93a96863a9bfeb5411a00b0988d5083513458ef9
-Section: Tweaks
-Author: Jake James
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Name: Bounce It!
 
 Package: mterminal
 Version: 1.4-6
@@ -170,40 +135,6 @@ Description: configure appearance of the Dock
 Author: burrit0z
 Depiction: https://abuanas52.github.io/repo/
 Name: Dockify
-
-Package: me.nepeta.axon
-Version:  1.4
-Architecture: iOS
-Maintainer: Merona Repo
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Compatibility: iOS 11+
-Filename: debs/me.nepeta.axon.deb
-Size: 145746 
-MD5sum: 91ddbd4b90858c3da9afba32af6d6d6b
-SHA1: bbe4e05a992395e8c8a93a0f4983f8626ce3253c
-SHA256: 2232de6f2bd9d045252189f911d0f9d4a2b5b48f7d6f735a4ad0a9913a47d856
-Section: Tweaks
-Description: Priority Hub for iOS 11 and 12
-Author: Nepeta & Baw Appie
-Depiction: https://abuanas52.github.io/repo/
-Name: Axon
-
-Package: com.ryannair05.cylinder
-Version:  1.1.1
-Architecture: iOS
-Maintainer: Chariz
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
-Compatibility: iOS 11+
-Filename: debs/com.ryannair05.cylinder_1.1.1_iphoneos-arm.deb
-Size: 283140 
-MD5sum: e5eb7712bd1fe7cdce9777c9c94b3229
-SHA1: e10f4a6ebb0f660f42ac588a03fbfe96f6b4566c
-SHA256: 9ffa6daf229ab1a3525a3e906d194ac27bed9da92dd14a682c3c9e6bb10ba853
-Section: Tweaks
-Description: Make your icons dance
-Depiction: https://abuanas52.github.io/repo/
-Name: Cylinder Reborn
 
 Package: com.captinc.cercubedarkmode
 Version:  1.1.1
@@ -532,21 +463,3 @@ Description: Round your Control Center modules.
 Author: jailbreak365
 Depiction: https://abuanas52.github.io/repo/
 Name: RoundedModules
-
-Package:  com.spark.snowboard
-Version:  1.5.26-Beta4-rootless
-Architecture: iOS Rootless 
-Maintainer: SparkDev
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: debs/1.5.26-Beta4-rootless.deb
-Size: 1120268
-MD5sum: 9109ec3d0b2bca55154f15610c8b61ba
-SHA1: 1548df152c15da2d898f19e618fb6af4bdee5d85
-SHA256: 2857efc003bf3c2def3119ea1b45f25b86eb57c8bf6f3b8d12c822e976608a51
-Section: Tweaks
-Description: Snowboard theming engine
-Author: Spark
-Depiction: https://abuanas52.github.io/repo/
-Name: SnowBoard

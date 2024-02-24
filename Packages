@@ -486,7 +486,7 @@ Package:  com.kingpuffdaddi.lowpowerdnd
 Version:  1.1.5
 Architecture: iOS 
 Maintainer: BigBoss
-Depends: 	•	mobilesubstrate (>= 0.9.5000), firmware (>= 10.0), preferenceloader
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0), preferenceloader
 Compatibility: iOS 10+
 Filename: debs/lowpowerdnd_1.1.5.deb
 Size: 31014
@@ -497,3 +497,19 @@ Description: Enable Low Power Mode, when enabling DND
 Author: KingPuffdaddi
 Depiction: https://abuanas52.github.io/repo/
 Name: LowPowerDND
+
+Package:  com.vladofficial.blankpass
+Version:  1.2
+Architecture: iOS 
+Maintainer: Packix
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.vladofficial.blankpass_1.2.deb
+Size: 19394
+MD5sum: 836a83b734eab817d965bab7df6347b1
+SHA1: 2ba97fa6bbefbd249dd5bf13dfc0dbae1a42c5ba
+SHA256: a92945e6dc49b2ce2d200ec28c941bbdd035808fc7c0e7cdefdb18fe92a88a31
+Section: Tweaks
+Description: Blank password buttons
+Author: VladGeek
+Depiction: https://abuanas52.github.io/repo/
+Name: BlankPass

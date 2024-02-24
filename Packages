@@ -481,3 +481,19 @@ Description: Snowboard theming engine
 Author: Spark
 Depiction: https://abuanas52.github.io/repo/
 Name: SnowBoard
+
+Package:  com.kingpuffdaddi.lowpowerdnd
+Version:  1.1.5
+Architecture: iOS 
+Maintainer: BigBoss
+Depends: 	•	mobilesubstrate (>= 0.9.5000), firmware (>= 10.0), preferenceloader
+Compatibility: iOS 10+
+Filename: debs/lowpowerdnd_1.1.5.deb
+Size: 31014
+MD5sum: e47a61a685e918fcd2aa7c3e772d5f73
+SHA256: d452964f791fe709f39e96fba62c317ee74503f4c8131236f6ee334de54c681b
+Section: Tweaks
+Description: Enable Low Power Mode, when enabling DND
+Author: KingPuffdaddi
+Depiction: https://abuanas52.github.io/repo/
+Name: LowPowerDND

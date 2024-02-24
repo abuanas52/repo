@@ -545,3 +545,19 @@ Description: Battery Color based on the battery percentage.
 Author: P2KDev
 Depiction: https://abuanas52.github.io/repo/
 Name: ColorMyBattery
+
+Package:  org.thebigboss.anilaunch
+Version:  1.1.10
+Architecture: iOS 
+Maintainer: BigBoss
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Compatibility: iOS 8
+Filename: debs/anilaunch_1.1.10.deb
+Size: 167660
+MD5sum: 2b08c4a05cc50e47ba55c66da17bef4a
+SHA256: 4a2a35a38a7b86a545f8b0c947bf7fe04b5b8c3d6024b31e60b372f52bb78ace
+Section: Tweaks
+Description: Animate icons on various actions.
+Author: merdok
+Depiction: https://abuanas52.github.io/repo/
+Name: Anilaunch

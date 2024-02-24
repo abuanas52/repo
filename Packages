@@ -513,3 +513,19 @@ Description: Blank password buttons
 Author: VladGeek
 Depiction: https://abuanas52.github.io/repo/
 Name: BlankPass
+
+Package:  com.imkpatil.spotcc
+Version:  1.0
+Architecture: iOS 
+Maintainer: Packix
+Depends: mobilesubstrate
+Filename: debs/com.imkpatil.spotcc_1.0.deb
+Size: 2582
+MD5sum: 7b2cb6e613bc921bad6d61c911a998d3
+SHA1: f382a0f3054b27b72fe04c40e0cdb10bed04e545
+SHA256: fce97ce9014e3393c27f8d8d571fee38da6a245c0d41fc3466e8d4bc7d3884e1
+Section: Tweaks
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Author: P2KDev
+Depiction: https://abuanas52.github.io/repo/
+Name: SpotCC

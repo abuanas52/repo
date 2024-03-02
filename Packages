@@ -561,3 +561,54 @@ Description: Animate icons on various actions.
 Author: merdok
 Depiction: https://abuanas52.github.io/repo/
 Name: Anilaunch
+
+Package:  com.rpgfarm.a-font
+Version:  1.10
+Architecture: iOS 
+Maintainer: Merona Repo
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.rpgfarm.a-font.deb
+Size: 496162
+MD5sum: 600d36fafed30fadbaf33f580cec142c
+SHA1: b2c869bcd1885a0fbf82803d48d66aa7d3831257
+SHA256: cde93a22fe8660fa594edcec39c3b967846877443fe20c71add4b66f67ce5528
+Section: Tweaks
+Description: Change your font!
+Author: Baw Appie
+Depiction: https://abuanas52.github.io/repo/
+Name: A-Font
+
+Package:  com.rpgfarm.a-shields
+Version:  1.7
+Architecture: iOS 
+Maintainer: Merona Repo
+Depends: mobilesubstrate, ws.hbang.alderis (>= 1.2)
+Filename: debs/com.rpgfarm.a-shields.deb
+Size: 50198
+MD5sum: 599d0bcc79d68449f2c43b59e83b82ca
+SHA1: 15bf3c0ac1153dd94f94d427f341dd9ba14346de
+SHA256: b1eb4c03cfe5f774bd45d3d7f2b0441c8b274adb0645338a517d1fdb457fd70f
+Section: Tweaks
+Description: Protect your device
+Author: Baw Appie
+Depiction: https://abuanas52.github.io/repo/
+Name: A-Shields
+
+Package:  com.twickd.john-sklikas.3dbadgeclear
+Version:  1.6.8
+Architecture: iOS 
+Maintainer: P2KDev's Repo
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.isklikas.3dbadgeclear
+Replaces: com.isklikas.3dbadgeclear
+Compatibility: iOS Rootless 13+
+Filename: debs/com.twickd.john-sklikas.3dbadgeclear_1.6.8_iphoneos-arm64.deb
+Size: 17860
+MD5sum: faeb9530dc716508d012c48ae169ffcf
+SHA1: 44dc6465d94ef08521add6ff02964addd8289974
+SHA256: 67f1745cd35015ff8b6c1093e53c024f7ad864dc7edcaac26d5080d45d2499ea
+Section: Tweaks
+Description: Clear your badges from the Force Touch / 3D Touch Menu! Only appears on apps that have badges.
+Author: isklikas
+Depiction: https://abuanas52.github.io/repo/
+Name: 3DBadgeClear

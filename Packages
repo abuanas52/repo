@@ -612,3 +612,18 @@ Description: Clear your badges from the Force Touch / 3D Touch Menu! Only appear
 Author: isklikas
 Depiction: https://abuanas52.github.io/repo/
 Name: 3DBadgeClear
+
+Package:  com.nahtedetihw.accentcolor
+Version:  1.0
+Architecture: iOS 
+Maintainer: Havoc
+Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkapplist
+Filename: debs/com.nahtedetihw.accentcolor_1.0_iphoneos-arm.deb
+Size: 600038
+MD5sum: e2afc19f78957a08b9823b271ff03dd1
+SHA256: 0473dccee1b6ae2a5f7d99026d3238183fe5afb886ec25bc3d775a9f74dad6ee
+Section: Tweaks
+Description: Change the tint color systemwide in a menu just like MacOS!
+Author: ETHN
+Depiction: https://abuanas52.github.io/repo/
+Name: AccentColor

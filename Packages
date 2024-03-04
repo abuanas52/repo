@@ -644,3 +644,20 @@ Description: View & Manage Applications Data from your Home Screen
 Author: Fouad Raheb
 Depiction: https://abuanas52.github.io/repo/
 Name: AppData
+
+Package:  com.tigisoftware.appdatamanager
+Version:  1.8.2-5
+Architecture: iOS 
+Maintainer: BigBoss
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Priority: optional
+Compatibility: iOS 7+
+Filename: debs/appsmanager_1.8.2-5.deb
+Size: 2518478
+MD5sum: eb6c5095ab86800f5e49b8df091f07a2
+SHA256: 4ef336fc36f0b132b237a3ffb832259c729c2a237c42e9b39d8ee46573fddc5c
+Section: Utilities
+Description: Tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Author: TIGI Software
+Depiction: https://abuanas52.github.io/repo/
+Name: Apps Manager

@@ -627,3 +627,20 @@ Description: Change the tint color systemwide in a menu just like MacOS!
 Author: ETHN
 Depiction: https://abuanas52.github.io/repo/
 Name: AccentColor
+
+Package:  com.fouadraheb.appdata
+Version:  1.4.0
+Architecture: iOS 
+Maintainer: Fouad's Repo
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Compatibility: iOS 11+
+Filename: debs/com.fouadraheb.appdata_1.4.0_iphoneos-arm.deb
+Size: 126546
+MD5sum: 59d4768b73f2f6cbffdc8ed501de2e5d
+SHA1: 9e36fc13dda92c5046ee35c684e9cb05069460a4
+SHA256: 7ebc82339c33b990fd213484ef489321dbd75e91bd7aa9f0e87a97d7b4b852c2
+Section: Tweaks
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb
+Depiction: https://abuanas52.github.io/repo/
+Name: AppData
